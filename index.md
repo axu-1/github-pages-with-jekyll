@@ -8,6 +8,9 @@ My name is Amy Xu.
 <img align="left" width="100" height="100" src="docs/assets/shs induction.jpg">
 I don't use most social media and I don't really feel like sharing my usernames, sorry. I use Discord often though.
 Three of my hobbies include:
-<p>-Keeping aquariums
-<p>-Yoyoing
-<p>-Making miniature models
+<list>
+  <li>-Keeping aquariums</li>
+  <li>-Yoyoing</li>
+  <li>-Making miniature models</li>
+  </list>
+  
